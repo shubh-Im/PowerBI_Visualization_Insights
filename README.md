@@ -19,7 +19,6 @@ This project showcases advanced data analysis and visualization techniques using
 
 ## Technologies Used
 - **Power BI**: For creating visualizations and interactive dashboards.
-- **SQL**: For data extraction, cleaning, and advanced analysis.
 
 ## Contents
 - `Data_Analysis_Project.pbix`: Power BI project file containing the dashboards and visualizations.
